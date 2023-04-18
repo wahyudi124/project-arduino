@@ -10,5 +10,6 @@ void loop(){
     if(digitalRead(14) == 0){
         digitalWrite(13, HIGH);
         digitalWrite(27, HIGH);
+        //Tambah data
     }
 }
